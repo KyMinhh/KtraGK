@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KyMinh\\Desktop\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmquanlybanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlybanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|c:\\users\\kyminh\\desktop\\new folder\\3-layers\\frmquanlybanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlybanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|C:\\Users\\KyMinh\\Desktop\\New folder\\bll\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|solutionrelative:bll\\sanphamservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE751471-41D3-46CD-93B3-63421A14ED62}|DAL\\DAL.csproj|c:\\users\\kyminh\\desktop\\new folder\\dal\\entities\\samphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE751471-41D3-46CD-93B3-63421A14ED62}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\samphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmquanlybanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\frmquanlybanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|c:\\users\\kyminh\\desktop\\new folder\\3-layers\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|c:\\users\\kyminh\\desktop\\new folder\\3-layers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729C16-1918-4F1A-A26D-FC141AF472BC}|3-layers\\GUI.csproj|solutionrelative:3-layers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|C:\\Users\\KyMinh\\Desktop\\New folder\\bll\\loaispservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A874F-C75C-4D47-AC2F-2E50EDD345BB}|BLL\\BLL.csproj|solutionrelative:bll\\loaispservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmQuanLyBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLyBanHang.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.cs [Design]",
+              "RelativeToolTip": "3-layers\\frmQuanLyBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:43:18.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLyBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLyBanHang.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.cs",
+              "RelativeToolTip": "3-layers\\frmQuanLyBanHang.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAIwMkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:04:33.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmQuanLyBanHang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "3-layers\\frmQuanLyBanHang.Designer.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\frmQuanLyBanHang.Designer.cs",
+              "RelativeToolTip": "3-layers\\frmQuanLyBanHang.Designer.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAwwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:12:56.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamServices.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\BLL\\SanPhamServices.cs",
+              "RelativeDocumentMoniker": "BLL\\SanPhamServices.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\BLL\\SanPhamServices.cs",
+              "RelativeToolTip": "BLL\\SanPhamServices.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAMwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:04:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SamPhamDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\DAL\\Entities\\SamPhamDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\SamPhamDBContext.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\DAL\\Entities\\SamPhamDBContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\SamPhamDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:31:13.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaiSPServices.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\BLL\\LoaiSPServices.cs",
+              "RelativeDocumentMoniker": "BLL\\LoaiSPServices.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\BLL\\LoaiSPServices.cs",
+              "RelativeToolTip": "BLL\\LoaiSPServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:06:23.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\App.config",
+              "RelativeDocumentMoniker": "3-layers\\App.config",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\App.config",
+              "RelativeToolTip": "3-layers\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T02:31:36.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\Program.cs",
+              "RelativeDocumentMoniker": "3-layers\\Program.cs",
+              "ToolTip": "C:\\Users\\KyMinh\\Desktop\\New folder\\3-layers\\Program.cs",
+              "RelativeToolTip": "3-layers\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAywBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:13:06.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

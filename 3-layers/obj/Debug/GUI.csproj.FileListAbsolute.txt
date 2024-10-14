@@ -1,0 +1,43 @@
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\_3_layers.Properties.Resources.resources
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\3-layers.exe.config
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\3-layers.exe
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\3-layers.pdb
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\BLL.dll
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\DAL.dll
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\EntityFramework.dll
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\BLL.pdb
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\BLL.dll.config
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\DAL.pdb
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\DAL.dll.config
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\EntityFramework.xml
+C:\Users\KyMinh\source\repos\3-layers\3-layers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\GUI.csproj.Up2Date
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\3-layers.exe
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\3-layers.pdb
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\_3_layers.frmQuanLySinhVien.resources
+C:\Users\KyMinh\source\repos\3-layers\3-layers\obj\Debug\_3_layers.frmRegister.resources
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\_3_layers.Properties.Resources.resources
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\3-layers.exe
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\3-layers.pdb
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\3-layers.exe.config
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\3-layers.exe
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\3-layers.pdb
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\BLL.dll
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\DAL.dll
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\EntityFramework.dll
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\BLL.pdb
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\BLL.dll.config
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\DAL.pdb
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\DAL.dll.config
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\EntityFramework.xml
+C:\Users\KyMinh\Desktop\New folder\3-layers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\GUI.csproj.Up2Date
+C:\Users\KyMinh\Desktop\New folder\3-layers\obj\Debug\_3_layers.frmQuanLyBanHang.resources

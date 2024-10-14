@@ -1,0 +1,24 @@
+C:\Users\KyMinh\source\repos\3-layers\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\KyMinh\source\repos\3-layers\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\DAL.dll.config
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\DAL.dll
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\DAL.pdb
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\EntityFramework.dll
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\EntityFramework.xml
+C:\Users\KyMinh\source\repos\3-layers\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyMinh\source\repos\3-layers\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\KyMinh\source\repos\3-layers\DAL\obj\Debug\DAL.dll
+C:\Users\KyMinh\source\repos\3-layers\DAL\obj\Debug\DAL.pdb
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\DAL.dll.config
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\DAL.dll
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\DAL.pdb
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\EntityFramework.dll
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\EntityFramework.xml
+C:\Users\KyMinh\Desktop\New folder\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KyMinh\Desktop\New folder\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\KyMinh\Desktop\New folder\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\KyMinh\Desktop\New folder\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\KyMinh\Desktop\New folder\DAL\obj\Debug\DAL.dll
+C:\Users\KyMinh\Desktop\New folder\DAL\obj\Debug\DAL.pdb
